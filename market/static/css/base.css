@@ -1,0 +1,25 @@
+
+.upper_part{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar_size{
+    height: 110px;
+}
+
+.logo_size {
+    height: 70px;
+    width: 120px;
+}
+
